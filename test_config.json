@@ -1,0 +1,84 @@
+{
+    "Test_cases": [
+        {
+            "file": "Test1.txt",
+            "mode": 1,
+            "description": "词法分析测试"
+        },
+		{
+            "file": "Test2.txt",
+            "mode": 1,
+            "description": "词法分析测试"
+        },
+		{
+            "file": "Test3.txt",
+            "mode": 1,
+            "description": "词法分析测试"
+        },
+		{
+            "file": "Test4.txt",
+            "mode": 1,
+            "description": "词法分析测试"
+        },
+        {
+            "file": "Test5.txt", 
+            "mode": 2,
+            "description": "LL1语法分析测试"
+        },
+		{
+            "file": "Test6.txt", 
+            "mode": 2,
+            "description": "LL1语法分析测试"
+        },
+		{
+            "file": "Test7.txt", 
+            "mode": 2,
+            "description": "LL1语法分析测试"
+        },
+		{
+            "file": "Test8.txt", 
+            "mode": 2,
+            "description": "LL1语法分析测试"
+        },
+        {
+            "file": "Test9.txt",
+            "mode": 3,
+            "description": "LR语法分析测试"
+        },
+		{
+            "file": "Test10.txt",
+            "mode": 3,
+            "description": "LR语法分析测试"
+        },
+		{
+            "file": "Test11.txt",
+            "mode": 3,
+            "description": "LR语法分析测试"
+        },
+		{
+            "file": "Test12.txt",
+            "mode": 3,
+            "description": "LR语法分析测试"
+        },
+        {
+            "file": "Test13.txt",
+            "mode": 4,
+            "description": "语义分析测试"
+        },
+		{
+            "file": "Test14.txt",
+            "mode": 4,
+            "description": "语义分析测试"
+        },
+		{
+            "file": "Test15.txt",
+            "mode": 4,
+            "description": "语义分析测试"
+        },
+		{
+            "file": "Test16.txt",
+            "mode": 4,
+            "description": "语义分析测试"
+        },
+    ]
+}
