@@ -2,11 +2,13 @@
 
 华东师范大学软件工程学院嵌入式方向编译原理与技术实践。
 
+github 链接：https://github.com/Mao-Xiaoxi/2025_ECNU_-.git
+
 ## 项目文件结构
 
 本实验使用了经典的C++项目文件结构，将四个实现功能代码进行整合。
 
-```C
+```
 项目名称
 ├── .vscode/          # VS Code配置目录
 │   └── tasks.json    # 编译任务配置文件
@@ -50,7 +52,7 @@
 
 本实验已生成已编译文件供检查使用，位于./build/bin/main.exe，可直接使用进行测试。
 
-```bash
+```
 root\build\bin>main.exe
 选择实现功能
 1
@@ -79,6 +81,6 @@ cmake --build .
 生成可执行文件位于root\build\bin\main.exe。
 
 本实验提供了window批处理文件实现样例的批量测试，可通过配置test_config.json文件具体设置参数。具体操作如下：
-```bash
+```
 ./run_tests.bat
 ```
